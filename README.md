@@ -1,6 +1,8 @@
 <h2 align="center">Welcome to sjxixi's GitHub!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
 
 ### 👋 Hello, world!
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
@@ -43,9 +45,7 @@ I adore combining cute and techy vibes! Check out my whimsical projects like:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&layout=compact&theme=tokyonight)
+
 
 ---
 
