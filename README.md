@@ -45,7 +45,8 @@ I adore combining cute and techy vibes! Check out my whimsical projects like:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&layout=compact&theme=tokyonight)
 
