@@ -1,14 +1,9 @@
 <h2 align="center">Welcome to sjxixi's GitHub!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ---
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radical">
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark">
 </p>
 
 ### 👋 Hello, world!
@@ -52,7 +47,9 @@ I adore combining cute and techy vibes! Check out my whimsical projects like:
 
 ## 📊 GitHub Stats
 
-
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark">
+</p>
 
 ---
 
