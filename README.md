@@ -14,8 +14,8 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 ## 🌟 Highlights
 
 ### 🔭 Current Projects
-- 🐾 [**Paw Wars**](https://github.com/sjxixi/AAA): Designed a CMDB asset management platform! 🐱⚔️🐶
-- 🤖 [**AI Companion**](https://github.com/sjxixi/OnlineForumPltform): A friendly online forum. 💬✨
+- 🐾 [**AAA**](https://github.com/sjxixi/AAA): Designed a CMDB asset management platform! 🐱⚔️🐶
+- 🤖 [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform): A friendly online forum. 💬✨
 
 ### 🏆 Achievements
 - 🌈 Designed a CMDB asset management platform.
