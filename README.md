@@ -10,6 +10,11 @@
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
 
 ---
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+
+<p align="center">
 
 ## 🌟 Highlights
 
