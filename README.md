@@ -12,7 +12,9 @@
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark">
+</p>
 ## 🌟 Highlights
 
 ### 🔭 Current Projects
