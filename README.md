@@ -43,7 +43,8 @@ I love imagining creative battle scenes between cats and dogs, complete with jun
 
 ## 📫 Get in Touch
 - **GitHub:** [sjxixi](https://github.com/sjxixi)
-- **Email:** sjxixi@example.com
+- **Email:** sjcache@gmail.com
+
 
 ---
 
@@ -54,12 +55,11 @@ I love imagining creative battle scenes between cats and dogs, complete with jun
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&layout=compact&theme=radical)
 
 ---
 
 ### ✨ Thank You for Visiting!
 Feel free to explore my repositories, leave a star ⭐ if you like something, or reach out to collaborate! 🚀
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
