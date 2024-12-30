@@ -1,7 +1,7 @@
 # 🌟 Welcome to sjxixi's GitHub! 🌟
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ![Cute Tech Banner](https://via.placeholder.com/1200x400?text=Welcome+to+sjxixi%27s+GitHub+%F0%9F%8C%9F)
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ---
 
 ### 👋 Hello, world!
