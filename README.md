@@ -18,16 +18,16 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 - 🤖 [**AI Companion**](https://github.com/sjxixi/ai-companion): A friendly AI chatbot to make your day brighter. 💬✨
 
 ### 🏆 Achievements
-- 🌈 Designed a **game-inspired tool** for creating custom avatars.
+- 🌈 Designed a CMDB asset management platform.
 - 🌐 Contributed to open-source projects that empower communities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, golang,
+- **Languages:** Python, JavaScript, golang
 - **Frameworks/Libraries:** React, Flask, Django
-- **Tools:** Git, Docker, 
+- **Tools:** Git, Docker, kubernetes
 
 ---
 
@@ -65,4 +65,3 @@ I adore combining cute and techy vibes! Check out my whimsical projects like:
 
 ---
 
-![Thank You Banner](https://via.placeholder.com/1200x200?text=Thank+You+for+Visiting+My+GitHub!+%F0%9F%98%8A)
