@@ -3,7 +3,7 @@
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radical">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark">
 </p>
 
 
@@ -12,9 +12,7 @@
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
 
 ---
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark">
-</p>
+
 ## 🌟 Highlights
 
 ### 🔭 Current Projects
