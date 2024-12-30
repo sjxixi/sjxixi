@@ -3,13 +3,14 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&layout=compact&theme=tokyonight)
+
 
 ### 👋 Hello, world!
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=microsoft-dark)](https://git.io/streak-stats)
 ## 🌟 Highlights
 
 ### 🔭 Current Projects
