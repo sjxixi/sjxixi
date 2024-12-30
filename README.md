@@ -1,9 +1,11 @@
 <h2 align="center">Welcome to sjxixi's GitHub!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=radical)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radical">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&layout=compact&theme=tokyonight)
 
 
 ### 👋 Hello, world!
