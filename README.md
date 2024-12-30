@@ -23,9 +23,9 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks/Libraries:** React, Flask, PyTorch
-- **Tools:** Git, Docker, Figma, Unity
+- **Languages:** Python, JavaScript, golang,
+- **Frameworks/Libraries:** React, Flask, Django
+- **Tools:** Git, Docker, 
 
 ---
 
@@ -53,7 +53,7 @@ I adore combining cute and techy vibes! Check out my whimsical projects like:
 
 ## 🌌 Let's Connect!
 - **GitHub:** [sjxixi](https://github.com/sjxixi)
-- **Email:** sjxixi@example.com
+- **Email:** sjcache@gmail.com
 - 🛸 Always open to collaborations and new ideas!
 
 ---
