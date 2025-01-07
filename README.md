@@ -5,6 +5,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radicalt">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radicalt&layout=compact">
+</p>
 
 ### 👋 Hello, world!
 I'm **sjxixi**, a passionate developer exploring the intersection of creativity and technology. My repositories are a blend of innovation, fun, and problem-solving. Let's dive in together! 🚀
