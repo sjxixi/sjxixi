@@ -6,8 +6,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radicalt">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radicalt&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjxixi&show_icons=true&theme=tokyonight&line_height=27&height=200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxixi&theme=radicalt&height=200">
 </p>
 
 ### 👋 Hello, world!
