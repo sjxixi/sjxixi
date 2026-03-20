@@ -18,14 +18,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sjxixi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
-<!-- 奖杯墙 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sjxixi&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
 
 ### 👋 About Me
-I'm **sjxixi**, a passionate full-stack developer with a focus on building scalable, user-centric applications. 
-- 🌱 Currently deepening my expertise in **cloud-native development** and **frontend engineering**
+I'm **sjxixi**, a tech-enthusiastic independent developer dedicated to building scalable, user-centric applications.
+- 🌱 Currently deepening my expertise in **cloud-native development** and **AI development**
 - 🔧 I love solving real-world problems with clean, maintainable code
 - 🤝 Open to collaboration on open-source projects, especially in DevOps and full-stack development
 - 📚 Constantly learning and sharing knowledge through my repositories
@@ -69,16 +65,16 @@ These are some of my most proud works – feel free to check them out!
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
 | [**aliyip**](https://github.com/sjxixi/aliyunip) | A desktop application for quickly managing multiple Alibaba Cloud service IP whitelists | golang, wails, Aliyun SDK | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/aliyunip?style=flat-square) |
-| [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform) | A full-featured, user-friendly online forum with real-time interactions | python,falsk,HTML | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/OnlineForumPltform?style=flat-square) |
+| [**ssl-cert-checker-web**](https://github.com/sjxixi/ssl-cert-checker-web) | A full-featured, user-friendly online forum with real-time interactions | golang,Node.js,Wails | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/ssl-cert-checker-web?style=flat-square) |
 
 > 💡 *Hover over the project links to explore, and star if you find them useful!*
 
 ---
 
 ### 📈 GitHub Activity
-<!-- 动态提交记录 -->
+<!-- 动态提交记录 - 更换更稳定的源 + 优化参数 -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sjxixi&theme=tokyonight&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" width="80%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjxixi&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" width="90%" alt="Activity Graph">
 </p>
 
 ---
