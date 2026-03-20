@@ -30,8 +30,8 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 ## 🌟 Highlights
 
 ### 🔭 Current Projects
-- 🐾 [**AAA**](https://github.com/sjxixi/AAA): Designed a CMDB asset management platform! 🐱⚔️🐶
-- 🤖 [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform): A friendly online forum. 💬✨
+- 🐾 [**aliyip**](https://github.com/sjxixi/aliyunip): A desktop application for quickly managing multiple Alibaba Cloud service IP whitelists 
+- 🤖 [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform): A friendly online forum. 
 
 ### 🏆 Achievements
 - 🌈 Designed a CMDB asset management platform.
