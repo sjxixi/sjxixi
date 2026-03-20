@@ -40,14 +40,11 @@ I'm **sjxixi**, a passionate full-stack developer with a focus on building scala
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
   <!-- 前端技术 -->
   <br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   
   <!-- 数据库 & 工具 -->
@@ -71,8 +68,8 @@ These are some of my most proud works – feel free to check them out!
 
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
-| [**aliyip**](https://github.com/sjxixi/aliyunip) | A desktop application for quickly managing multiple Alibaba Cloud service IP whitelists | Python, Electron, Aliyun SDK | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/aliyunip?style=flat-square) |
-| [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform) | A full-featured, user-friendly online forum with real-time interactions | Node.js, Express, MongoDB, React | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/OnlineForumPltform?style=flat-square) |
+| [**aliyip**](https://github.com/sjxixi/aliyunip) | A desktop application for quickly managing multiple Alibaba Cloud service IP whitelists | golang, wails, Aliyun SDK | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/aliyunip?style=flat-square) |
+| [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform) | A full-featured, user-friendly online forum with real-time interactions | python,falsk,HTML | ![GitHub stars](https://img.shields.io/github/stars/sjxixi/OnlineForumPltform?style=flat-square) |
 
 > 💡 *Hover over the project links to explore, and star if you find them useful!*
 
