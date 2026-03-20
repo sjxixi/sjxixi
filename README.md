@@ -33,10 +33,6 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 - 🐾 [**aliyip**](https://github.com/sjxixi/aliyunip): A desktop application for quickly managing multiple Alibaba Cloud service IP whitelists 
 - 🤖 [**OnlineForumPltform**](https://github.com/sjxixi/OnlineForumPltform): A friendly online forum. 
 
-### 🏆 Achievements
-- 🌈 Designed a CMDB asset management platform.
-- 🌐 Contributed to open-source projects that empower communities.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -44,20 +40,6 @@ I'm **sjxixi**, a passionate developer exploring the intersection of creativity 
 - **Languages:** Python, JavaScript, golang
 - **Frameworks/Libraries:** React, Flask, Django
 - **Tools:** Git, Docker, kubernetes
-
----
-
-## 💖 Fun & Creativity
-
-### 🎮 Passion Projects
-I adore combining cute and techy vibes! Check out my whimsical projects like:
-- **Pixel Pets:** Miniature AI-driven companions. 🐾🤖
-- **Space Explorers:** Procedurally generated universes. 🌌✨
-
-### 🌟 Hobbies
-- Digital illustration 🖌️
-- Story-driven games 🎮
-- Creative coding challenges 🎨💻
 
 ---
 
